@@ -1,0 +1,28 @@
+﻿<form method="post" asp-antiforgery="true">
+
+    <p>Multiple form actions using jquery</p>
+
+    <hr />
+
+    <input type="submit" id="SaveButton" value="Save" class="btn btn-success" />
+    <input type="submit" id="CancelButton" value="Cancel" class="btn btn-primary" />
+
+</form>
+
+@section scriptSection {
+
+    <script>
+        $(document).ready(function () {
+            $("#SaveButton").click(function () {
+                $("form").attr("action", "/MultiActionForm/SubmitJQueryAttribActionSave");
+            });
+
+            $("#CancelButton").click(function () {
+                $("form").attr("action", "/MultiActionForm/SubmitJQueryAttribActionCancel");
+            });
+
+        });
+    </script>
+
+}
+

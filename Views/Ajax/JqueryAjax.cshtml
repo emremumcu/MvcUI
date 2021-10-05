@@ -1,0 +1,358 @@
+﻿
+
+<a class="btn btn-primary" href="javascript:xmlHttpRequest();">Old School XMLHttpRequest</a>
+
+<a class="btn btn-secondary" href="javascript:ajaxRequest();">JQuery POwered Ajax</a>
+
+<hr />
+
+<form id="ajaxForm" asp-antiforgery="true">
+
+    <a class="btn btn-warning" href="javascript:GetIller();">İller</a>
+
+    <hr />
+
+    <select id="iller"></select>
+    <select id="ilceler"></select>
+
+    <hr />
+
+    <div id="result"></div>
+
+</form>
+
+
+@section scriptSection {
+
+    @*
+
+        Code included inside $( document ).ready() will only run once the page Document Object Model (DOM) is ready for JavaScript code to execute. Code included inside $( window ).on( "load", function() { ... }) will run once the entire page (images or iframes), not just the DOM, is ready.
+
+        jQuery'nin $(document).ready() olayı DOM yüklemeyi bitirdiğinde tetiklenen ancak stil sayfalarının veya resimlerin yüklenmesini beklemeyen bir etkinliktir
+
+        // A $( document ).ready() block.
+        $( document ).ready(function() {
+
+        });
+
+        // Shorthand for $( document ).ready()
+        $(function() {
+
+        });
+
+        -----------------------------
+        jq2 = jQuery.noConflict();
+        jq2(function( $ ) {
+          // Code using $ as usual goes here; the actual jQuery object is jq2
+        });
+
+        ----------------------------
+
+        document.addEventListener("DOMContentLoaded", function() {
+           // = document ready
+        });
+
+        document.onreadystatechange = () => {
+            if (document.readyState === 'complete') {
+            // document ready
+            }
+        };
+
+        let stateCheck = setInterval(() => {
+          if (document.readyState === 'complete') {
+            clearInterval(stateCheck);
+            // document ready
+          }
+        }, 100);
+
+        //----------------------------------
+
+        function ready(callback){
+            // belge yüklendiğinde
+            if (document.readyState!='loading') callback();
+            // modern browsers
+            else if (document.addEventListener)
+            document.addEventListener('DOMContentLoaded', callback);
+            // IE <= 8
+            else document.attachEvent('onreadystatechange', function(){
+                if (document.readyState=='complete') callback();
+            });
+        }
+
+        ready(function(){
+            // javascript kodları
+        });
+
+        // -----------------------------------------
+        <script>
+        $( "select" )
+          .change(function() {
+            var str = "";
+            $( "select option:selected" ).each(function() {
+              str += $( this ).text() + " ";
+            });
+            $( "div" ).text( str );
+          })
+          .trigger( "change" );
+        </script>
+
+    *@
+
+    <script>
+
+        $(function () {
+
+            GetIller();
+
+            $("select#iller").change(function () {
+                var ilKodu = $("select#iller option:selected").val();
+                GetIlceler(ilKodu);
+            });
+
+        });
+
+    </script>
+
+    <script>
+
+        // Full sample
+
+        function xmlHttpRequest() {
+
+            // Ready State
+            // -----------
+            // Holds the status of the XMLHttpRequest.
+            // 0: request not initialized
+            // 1: server connection established
+            // 2: request received
+            // 3: processing request
+            // 4: request finished and response is readystatus
+
+            // status
+            // ------
+            // 100: "Continue"
+            // 200: "OK"
+            // 400: "Bad Request"
+            // 401: "Unauthorized"
+            // 403: "Forbidden"
+            // 404: "Page not found"
+            // 500: "Internal Server Error"
+
+            // statusText
+            // ----------
+            // Returns the status-text
+            // “OK”
+            // “Not Found”
+
+            var xhttp = new XMLHttpRequest();
+
+            xhttp.onreadystatechange = function () {
+
+                if (this.readyState == 4 && this.status == 200) {
+
+                    console.log(xhttp.responseText);
+                }
+            };
+
+            xhttp.open("POST", "/Ajax/AjaxGetSample/?inputData=123");
+
+            xhttp.send();
+        }
+
+    </script>
+
+    <script>
+
+        // Full Sample
+
+        function ajaxRequest() {
+
+            // https://api.jquery.com/jquery.ajax/
+
+            //var jqXHR = $.ajax(url);
+            //var jqXHR = $.ajax(url [,options]);
+            //var jqXHR = $.ajax([options]);
+
+            var ajaxResult = $.ajax({
+
+                url: "/Ajax/AjaxGetSample",
+
+                // By default, Ajax requests are sent using the GET HTTP method.
+                // If the POST method is required, the method can be specified by setting a value for the type option.
+                // This option affects how the contents of the data option are sent to the server.
+                // POST data will always be transmitted to the server using UTF- 8 charset, per the W3C XMLHTTPRequest standard.
+                type: "POST",
+
+                headers: "",
+
+                timeout: "0",
+
+                contentType: "application/x-www-form-urlencoded; charset=UTF-8",
+
+                // Different types of response to $.ajax() call are subjected to different kinds of pre-processing before being passed to the success handler.
+                // The type of pre-processing depends by default upon the Content-Type of the response, but can be set explicitly using the dataType option.
+                // If the dataType option is provided, the Content- Type header of the response will be disregarded.
+                // The available data types are text, html, xml, json, jsonp, and script.
+                // If text or html is specified, no pre-processing occurs. The data is simply passed on to the success handler, and made available through the responseText property of the jqXHR object.
+                // If xml is specified, the response is parsed using jQuery.parseXML before being passed, as an XMLDocument, to the success handler. The XML document is made available through the responseXML property of the jqXHR object.
+                // If json is specified, the response is parsed using jQuery.parseJSON before being passed, as an object, to the success handler. The parsed JSON object is made available through the responseJSON property of the jqXHR object.
+                // If script is specified, $.ajax() will execute the JavaScript that is received from the server before passing it on to the success handler as a string.
+                // If jsonp is specified, $.ajax() will automatically append a query string parameter of (by default) callback=? to the URL.
+                // The jsonp and jsonpCallback properties of the settings passed to $.ajax() can be used to specify, respectively, the name of the query string parameter and the name of the JSONP callback function.
+                // dataType is for response not request!
+                dataType: "json",
+
+                // The data option can contain either a query string of the form key1=value1&key2=value2, or an object of the form {key1: 'value1', key2: 'value2'}.
+                // If the latter form is used, the data is converted into a query string using jQuery.param() before it is sent.
+                // This processing can be circumvented by setting processData to false.
+                // The processing might be undesirable if you wish to send an XML object to the server
+                data: { inputData: 'inputdata' },
+
+                beforeSend: function (xhr) {
+                    // xhr.overrideMimeType("text/plain; charset=x-user-defined");
+                    console.log("beforeSend");
+                },
+
+                success: function (data, status, xhr) {
+                    console.log("success");
+                },
+
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.log("error");
+                },
+
+                complete: function (data_jqXHR, textStatus, jqXHR_errorThrown) {
+                    console.log("complete");
+                }
+            });
+
+
+            // Deprecation Notice:
+            // The jqXHR.success(), jqXHR.error(), and jqXHR.complete() callbacks are removed as of jQuery 3.0.
+            // You can use jqXHR.done(), jqXHR.fail(), and jqXHR.always() instead.
+
+            ajaxResult.done(function (data, textStatus, jqXHR) {
+                // An alternative construct to the success callback option
+                console.log("done");
+            })
+
+            ajaxResult.fail(function (jqXHR, textStatus, errorThrown) {
+                // An alternative construct to the error callback option, the .fail() method replaces the deprecated .error() method
+                console.log("fail");
+            })
+
+            ajaxResult.always(function (data_jqXHR, textStatus, jqXHR_errorThrown) {
+                // An alternative construct to the complete callback option, the .always() method replaces the deprecated .complete() method.
+                // In response to a successful request, the function's arguments are the same as those of .done(): data, textStatus, and the jqXHR object.
+                // For failed requests the arguments are the same as those of.fail(): the jqXHR object, textStatus, and errorThrown.
+                console.log("always");
+            })
+
+            ajaxResult.then(function (data, textStatus, jqXHR) { }, function (jqXHR, textStatus, errorThrown) {
+                // Incorporates the functionality of the .done() and .fail() methods, allowing the underlying Promise to be manipulated.
+                console.log("then");
+            })
+
+        };
+
+    </script>
+
+    <script>
+
+        // Demo Scripts
+
+        function GetIller() {
+
+            var form = $('#ajaxForm');
+            var token = $('input[name="__RequestVerificationToken"]', form).val();
+
+            var ajaxResult = $.ajax({
+
+                url: "/Ajax/GetIller",
+
+                type: "POST",
+
+                dataType: "json",
+
+                data: { __RequestVerificationToken: token },
+
+                beforeSend: function (xhr) {
+
+                },
+            });
+
+            ajaxResult.done(function (data, textStatus, jqXHR) {
+
+                console.log(data);
+
+                $("select#iller").empty();
+
+                $("select#iller").append($("<option></option>").val("0").html("-----İl Seçiniz-----"));
+
+                $.each(data.responseData, function (data, value) {
+                    $("select#iller").append($("<option></option>").val(value.ilkodu).html(`${value.ilkodu}. ${value.iladi}`));
+                })
+
+            })
+
+            ajaxResult.fail(function (jqXHR, textStatus, errorThrown) {
+                console.log(jqXHR);
+                console.log(textStatus);
+                console.log(errorThrown);
+            })
+
+            ajaxResult.always(function (data_jqXHR, textStatus, jqXHR_errorThrown) {
+                console.log(data_jqXHR);
+                console.log(textStatus);
+                console.log(jqXHR_errorThrown);
+            })
+        }
+
+        function GetIlceler(ilKodu) {
+
+            var form = $('#ajaxForm');
+            var token = $('input[name="__RequestVerificationToken"]', form).val();
+
+            var ajaxResult = $.ajax({
+
+                url: "/Ajax/GetIlceler",
+
+                type: "POST",
+
+                dataType: "json",
+
+                data: { __RequestVerificationToken: token, ilKodu: ilKodu },
+
+                beforeSend: function (xhr) {
+
+                },
+            });
+
+            ajaxResult.done(function (data, textStatus, jqXHR) {
+
+                $("select#ilceler").empty();
+
+                $("select#ilceler").append($("<option></option>").val("0").html("-----İlçe Seçiniz-----"));
+
+                $.each(data.responseData, function (data, value) {
+                    $("select#ilceler").append($("<option></option>").val(value.ilcekodu).html(`${value.ilcekodu}. ${value.ilceadi}`));
+                })
+
+            })
+
+            ajaxResult.fail(function (jqXHR, textStatus, errorThrown) {
+                console.log(jqXHR);
+                console.log(textStatus);
+                console.log(errorThrown);
+            })
+
+            ajaxResult.always(function (data_jqXHR, textStatus, jqXHR_errorThrown) {
+                console.log(data_jqXHR);
+                console.log(textStatus);
+                console.log(jqXHR_errorThrown);
+            })
+        }
+
+    </script>
+
+}

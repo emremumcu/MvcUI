@@ -1,0 +1,18 @@
+﻿<form method="post" asp-antiforgery="true">
+
+    <p>Multiple form actions using formaction and formmethod attributes</p>
+
+    <hr />
+
+    <i>
+        Use formaction and formmethod attributes which are introduced in HTML5.
+        These attributes can be set on the buttons.
+        The formaction attribute indicates the form's action whereas the formpost attribute indicates the form submition method.
+    </i>
+
+    <hr />
+
+    <input type="submit" formmethod="post" formaction="/MultiActionForm/SubmitFormActionSave" value="Save" />
+    <input type="submit" formmethod="post" formaction="/MultiActionForm/SubmitFormActionCancel" value="Cancel" />
+
+</form>

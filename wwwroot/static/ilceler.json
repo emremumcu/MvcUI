@@ -1,0 +1,5840 @@
+[
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0101",
+    "ilceadi": "ALADAĞ"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0102",
+    "ilceadi": "CEYHAN"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0103",
+    "ilceadi": "ÇUKUROVA"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0104",
+    "ilceadi": "FEKE"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0105",
+    "ilceadi": "İMAMOĞLU"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0106",
+    "ilceadi": "KARAİSALI"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0107",
+    "ilceadi": "KARATAŞ"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0108",
+    "ilceadi": "KOZAN"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0109",
+    "ilceadi": "POZANTI"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0110",
+    "ilceadi": "SAİMBEYLİ"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0111",
+    "ilceadi": "SARIÇAM"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0112",
+    "ilceadi": "SEYHAN"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0113",
+    "ilceadi": "TUFANBEYLİ"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0114",
+    "ilceadi": "YUMURTALIK"
+  },
+  {
+    "ilkodu": "01",
+    "iladi": "ADANA",
+    "ilcekodu": "0115",
+    "ilceadi": "YÜREĞİR"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0201",
+    "ilceadi": "BESNİ"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0202",
+    "ilceadi": "ÇELİKHAN"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0203",
+    "ilceadi": "GERGER"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0204",
+    "ilceadi": "GÖLBAŞI"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0205",
+    "ilceadi": "KAHTA"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0206",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0207",
+    "ilceadi": "SAMSAT"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0208",
+    "ilceadi": "SİNCİK"
+  },
+  {
+    "ilkodu": "02",
+    "iladi": "ADIYAMAN",
+    "ilcekodu": "0209",
+    "ilceadi": "TUT"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0301",
+    "ilceadi": "BAŞMAKÇI"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0302",
+    "ilceadi": "BAYAT"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0303",
+    "ilceadi": "BOLVADİN"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0304",
+    "ilceadi": "ÇAY"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0305",
+    "ilceadi": "ÇOBANLAR"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0306",
+    "ilceadi": "DAZKIRI"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0307",
+    "ilceadi": "DİNAR"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0308",
+    "ilceadi": "EMİRDAĞ"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0309",
+    "ilceadi": "EVCİLER"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0310",
+    "ilceadi": "HOCALAR"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0311",
+    "ilceadi": "İHSANİYE"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0312",
+    "ilceadi": "İSCEHİSAR"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0313",
+    "ilceadi": "KIZILÖREN"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0314",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0315",
+    "ilceadi": "SANDIKLI"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0316",
+    "ilceadi": "SİNANPAŞA"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0317",
+    "ilceadi": "SULTANDAĞI"
+  },
+  {
+    "ilkodu": "03",
+    "iladi": "AFYONKARAHİSAR",
+    "ilcekodu": "0318",
+    "ilceadi": "ŞUHUT"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0401",
+    "ilceadi": "DİYADİN"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0402",
+    "ilceadi": "DOĞUBAYAZIT"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0403",
+    "ilceadi": "ELEŞKİRT"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0404",
+    "ilceadi": "HAMUR"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0405",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0406",
+    "ilceadi": "PATNOS"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0407",
+    "ilceadi": "TAŞLIÇAY"
+  },
+  {
+    "ilkodu": "04",
+    "iladi": "AĞRI",
+    "ilcekodu": "0408",
+    "ilceadi": "TUTAK"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0501",
+    "ilceadi": "GÖYNÜCEK"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0502",
+    "ilceadi": "GÜMÜŞHACIKÖY"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0503",
+    "ilceadi": "HAMAMÖZÜ"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0504",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0505",
+    "ilceadi": "MERZİFON"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0506",
+    "ilceadi": "SULUOVA"
+  },
+  {
+    "ilkodu": "05",
+    "iladi": "AMASYA",
+    "ilcekodu": "0507",
+    "ilceadi": "TAŞOVA"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0601",
+    "ilceadi": "AKYURT"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0602",
+    "ilceadi": "ALTINDAĞ"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0603",
+    "ilceadi": "AYAŞ"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0604",
+    "ilceadi": "BALA"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0605",
+    "ilceadi": "BEYPAZARI"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0606",
+    "ilceadi": "ÇAMLIDERE"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0607",
+    "ilceadi": "ÇANKAYA"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0608",
+    "ilceadi": "ÇUBUK"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0609",
+    "ilceadi": "ELMADAĞ"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0610",
+    "ilceadi": "ETİMESGUT"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0611",
+    "ilceadi": "EVREN"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0612",
+    "ilceadi": "GÖLBAŞI"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0613",
+    "ilceadi": "GÜDÜL"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0614",
+    "ilceadi": "HAYMANA"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0615",
+    "ilceadi": "KAHRAMANKAZAN"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0616",
+    "ilceadi": "KALECİK"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0617",
+    "ilceadi": "KEÇİÖREN"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0618",
+    "ilceadi": "KIZILCAHAMAM"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0619",
+    "ilceadi": "MAMAK"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0620",
+    "ilceadi": "NALLIHAN"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0621",
+    "ilceadi": "POLATLI"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0622",
+    "ilceadi": "PURSAKLAR"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0623",
+    "ilceadi": "SİNCAN"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0624",
+    "ilceadi": "ŞEREFLİKOÇHİSAR"
+  },
+  {
+    "ilkodu": "06",
+    "iladi": "ANKARA",
+    "ilcekodu": "0625",
+    "ilceadi": "YENİMAHALLE"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0701",
+    "ilceadi": "AKSEKİ"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0702",
+    "ilceadi": "AKSU"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0703",
+    "ilceadi": "ALANYA"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0704",
+    "ilceadi": "DEMRE"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0705",
+    "ilceadi": "DÖŞEMEALTI"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0706",
+    "ilceadi": "ELMALI"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0707",
+    "ilceadi": "FİNİKE"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0708",
+    "ilceadi": "GAZİPAŞA"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0709",
+    "ilceadi": "GÜNDOĞMUŞ"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0710",
+    "ilceadi": "İBRADI"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0711",
+    "ilceadi": "KAŞ"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0712",
+    "ilceadi": "KEMER"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0713",
+    "ilceadi": "KEPEZ"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0714",
+    "ilceadi": "KONYAALTI"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0715",
+    "ilceadi": "KORKUTELİ"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0716",
+    "ilceadi": "KUMLUCA"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0717",
+    "ilceadi": "MANAVGAT"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0718",
+    "ilceadi": "MURATPAŞA"
+  },
+  {
+    "ilkodu": "07",
+    "iladi": "ANTALYA",
+    "ilcekodu": "0719",
+    "ilceadi": "SERİK"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0801",
+    "ilceadi": "ARDANUÇ"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0802",
+    "ilceadi": "ARHAVİ"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0803",
+    "ilceadi": "BORÇKA"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0804",
+    "ilceadi": "HOPA"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0805",
+    "ilceadi": "KEMALPAŞA"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0806",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0807",
+    "ilceadi": "MURGUL"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0808",
+    "ilceadi": "ŞAVŞAT"
+  },
+  {
+    "ilkodu": "08",
+    "iladi": "ARTVİN",
+    "ilcekodu": "0809",
+    "ilceadi": "YUSUFELİ"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0901",
+    "ilceadi": "BOZDOĞAN"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0902",
+    "ilceadi": "BUHARKENT"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0903",
+    "ilceadi": "ÇİNE"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0904",
+    "ilceadi": "DİDİM"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0905",
+    "ilceadi": "EFELER"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0906",
+    "ilceadi": "GERMENCİK"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0907",
+    "ilceadi": "İNCİRLİOVA"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0908",
+    "ilceadi": "KARACASU"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0909",
+    "ilceadi": "KARPUZLU"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0910",
+    "ilceadi": "KOÇARLI"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0911",
+    "ilceadi": "KÖŞK"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0912",
+    "ilceadi": "KUŞADASI"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0913",
+    "ilceadi": "KUYUCAK"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0914",
+    "ilceadi": "NAZİLLİ"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0915",
+    "ilceadi": "SÖKE"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0916",
+    "ilceadi": "SULTANHİSAR"
+  },
+  {
+    "ilkodu": "09",
+    "iladi": "AYDIN",
+    "ilcekodu": "0917",
+    "ilceadi": "YENİPAZAR"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1001",
+    "ilceadi": "ALTIEYLÜL"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1002",
+    "ilceadi": "AYVALIK"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1003",
+    "ilceadi": "BALYA"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1004",
+    "ilceadi": "BANDIRMA"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1005",
+    "ilceadi": "BİGADİÇ"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1006",
+    "ilceadi": "BURHANİYE"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1007",
+    "ilceadi": "DURSUNBEY"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1008",
+    "ilceadi": "EDREMİT"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1009",
+    "ilceadi": "ERDEK"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1010",
+    "ilceadi": "GÖMEÇ"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1011",
+    "ilceadi": "GÖNEN"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1012",
+    "ilceadi": "HAVRAN"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1013",
+    "ilceadi": "İVRİNDİ"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1014",
+    "ilceadi": "KARESİ"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1015",
+    "ilceadi": "KEPSUT"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1016",
+    "ilceadi": "MANYAS"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1017",
+    "ilceadi": "MARMARA"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1018",
+    "ilceadi": "SAVAŞTEPE"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1019",
+    "ilceadi": "SINDIRGI"
+  },
+  {
+    "ilkodu": "10",
+    "iladi": "BALIKESİR",
+    "ilcekodu": "1020",
+    "ilceadi": "SUSURLUK"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1101",
+    "ilceadi": "BOZÜYÜK"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1102",
+    "ilceadi": "GÖLPAZARI"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1103",
+    "ilceadi": "İNHİSAR"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1104",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1105",
+    "ilceadi": "OSMANELİ"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1106",
+    "ilceadi": "PAZARYERİ"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1107",
+    "ilceadi": "SÖĞÜT"
+  },
+  {
+    "ilkodu": "11",
+    "iladi": "BİLECİK",
+    "ilcekodu": "1108",
+    "ilceadi": "YENİPAZAR"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1201",
+    "ilceadi": "ADAKLI"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1202",
+    "ilceadi": "GENÇ"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1203",
+    "ilceadi": "KARLIOVA"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1204",
+    "ilceadi": "KİĞI"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1205",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1206",
+    "ilceadi": "SOLHAN"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1207",
+    "ilceadi": "YAYLADERE"
+  },
+  {
+    "ilkodu": "12",
+    "iladi": "BİNGÖL",
+    "ilcekodu": "1208",
+    "ilceadi": "YEDİSU"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1301",
+    "ilceadi": "ADİLCEVAZ"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1302",
+    "ilceadi": "AHLAT"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1303",
+    "ilceadi": "GÜROYMAK"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1304",
+    "ilceadi": "HİZAN"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1305",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1306",
+    "ilceadi": "MUTKİ"
+  },
+  {
+    "ilkodu": "13",
+    "iladi": "BİTLİS",
+    "ilcekodu": "1307",
+    "ilceadi": "TATVAN"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1401",
+    "ilceadi": "DÖRTDİVAN"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1402",
+    "ilceadi": "GEREDE"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1403",
+    "ilceadi": "GÖYNÜK"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1404",
+    "ilceadi": "KIBRISCIK"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1405",
+    "ilceadi": "MENGEN"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1406",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1407",
+    "ilceadi": "MUDURNU"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1408",
+    "ilceadi": "SEBEN"
+  },
+  {
+    "ilkodu": "14",
+    "iladi": "BOLU",
+    "ilcekodu": "1409",
+    "ilceadi": "YENİÇAĞA"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1501",
+    "ilceadi": "AĞLASUN"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1502",
+    "ilceadi": "ALTINYAYLA"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1503",
+    "ilceadi": "BUCAK"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1504",
+    "ilceadi": "ÇAVDIR"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1505",
+    "ilceadi": "ÇELTİKÇİ"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1506",
+    "ilceadi": "GÖLHİSAR"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1507",
+    "ilceadi": "KARAMANLI"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1508",
+    "ilceadi": "KEMER"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1509",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1510",
+    "ilceadi": "TEFENNİ"
+  },
+  {
+    "ilkodu": "15",
+    "iladi": "BURDUR",
+    "ilcekodu": "1511",
+    "ilceadi": "YEŞİLOVA"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1601",
+    "ilceadi": "BÜYÜKORHAN"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1602",
+    "ilceadi": "GEMLİK"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1603",
+    "ilceadi": "GÜRSU"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1604",
+    "ilceadi": "HARMANCIK"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1605",
+    "ilceadi": "İNEGÖL"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1606",
+    "ilceadi": "İZNİK"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1607",
+    "ilceadi": "KARACABEY"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1608",
+    "ilceadi": "KELES"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1609",
+    "ilceadi": "KESTEL"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1610",
+    "ilceadi": "MUDANYA"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1611",
+    "ilceadi": "MUSTAFAKEMALPAŞA"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1612",
+    "ilceadi": "NİLÜFER"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1613",
+    "ilceadi": "ORHANELİ"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1614",
+    "ilceadi": "ORHANGAZİ"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1615",
+    "ilceadi": "OSMANGAZİ"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1616",
+    "ilceadi": "YENİŞEHİR"
+  },
+  {
+    "ilkodu": "16",
+    "iladi": "BURSA",
+    "ilcekodu": "1617",
+    "ilceadi": "YILDIRIM"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1701",
+    "ilceadi": "AYVACIK"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1702",
+    "ilceadi": "BAYRAMİÇ"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1703",
+    "ilceadi": "BİGA"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1704",
+    "ilceadi": "BOZCAADA"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1705",
+    "ilceadi": "ÇAN"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1706",
+    "ilceadi": "ECEABAT"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1707",
+    "ilceadi": "EZİNE"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1708",
+    "ilceadi": "GELİBOLU"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1709",
+    "ilceadi": "GÖKÇEADA"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1710",
+    "ilceadi": "LAPSEKİ"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1711",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "17",
+    "iladi": "ÇANAKKALE",
+    "ilcekodu": "1712",
+    "ilceadi": "YENİCE"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1801",
+    "ilceadi": "ATKARACALAR"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1802",
+    "ilceadi": "BAYRAMÖREN"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1803",
+    "ilceadi": "ÇERKEŞ"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1804",
+    "ilceadi": "ELDİVAN"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1805",
+    "ilceadi": "ILGAZ"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1806",
+    "ilceadi": "KIZILIRMAK"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1807",
+    "ilceadi": "KORGUN"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1808",
+    "ilceadi": "KURŞUNLU"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1809",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1810",
+    "ilceadi": "ORTA"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1811",
+    "ilceadi": "ŞABANÖZÜ"
+  },
+  {
+    "ilkodu": "18",
+    "iladi": "ÇANKIRI",
+    "ilcekodu": "1812",
+    "ilceadi": "YAPRAKLI"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1901",
+    "ilceadi": "ALACA"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1902",
+    "ilceadi": "BAYAT"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1903",
+    "ilceadi": "BOĞAZKALE"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1904",
+    "ilceadi": "DODURGA"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1905",
+    "ilceadi": "İSKİLİP"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1906",
+    "ilceadi": "KARGI"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1907",
+    "ilceadi": "LAÇİN"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1908",
+    "ilceadi": "MECİTÖZÜ"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1909",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1910",
+    "ilceadi": "OĞUZLAR"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1911",
+    "ilceadi": "ORTAKÖY"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1912",
+    "ilceadi": "OSMANCIK"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1913",
+    "ilceadi": "SUNGURLU"
+  },
+  {
+    "ilkodu": "19",
+    "iladi": "ÇORUM",
+    "ilcekodu": "1914",
+    "ilceadi": "UĞURLUDAĞ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2001",
+    "ilceadi": "ACIPAYAM"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2002",
+    "ilceadi": "BABADAĞ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2003",
+    "ilceadi": "BAKLAN"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2004",
+    "ilceadi": "BEKİLLİ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2005",
+    "ilceadi": "BEYAĞAÇ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2006",
+    "ilceadi": "BOZKURT"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2007",
+    "ilceadi": "BULDAN"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2008",
+    "ilceadi": "ÇAL"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2009",
+    "ilceadi": "ÇAMELİ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2010",
+    "ilceadi": "ÇARDAK"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2011",
+    "ilceadi": "ÇİVRİL"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2012",
+    "ilceadi": "GÜNEY"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2013",
+    "ilceadi": "HONAZ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2014",
+    "ilceadi": "KALE"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2015",
+    "ilceadi": "MERKEZEFENDİ"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2016",
+    "ilceadi": "PAMUKKALE"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2017",
+    "ilceadi": "SARAYKÖY"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2018",
+    "ilceadi": "SERİNHİSAR"
+  },
+  {
+    "ilkodu": "20",
+    "iladi": "DENİZLİ",
+    "ilcekodu": "2019",
+    "ilceadi": "TAVAS"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2101",
+    "ilceadi": "BAĞLAR"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2102",
+    "ilceadi": "BİSMİL"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2103",
+    "ilceadi": "ÇERMİK"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2104",
+    "ilceadi": "ÇINAR"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2105",
+    "ilceadi": "ÇÜNGÜŞ"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2106",
+    "ilceadi": "DİCLE"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2107",
+    "ilceadi": "EĞİL"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2108",
+    "ilceadi": "ERGANİ"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2109",
+    "ilceadi": "HANİ"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2110",
+    "ilceadi": "HAZRO"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2111",
+    "ilceadi": "KAYAPINAR"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2112",
+    "ilceadi": "KOCAKÖY"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2113",
+    "ilceadi": "KULP"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2114",
+    "ilceadi": "LİCE"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2115",
+    "ilceadi": "SİLVAN"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2116",
+    "ilceadi": "SUR"
+  },
+  {
+    "ilkodu": "21",
+    "iladi": "DİYARBAKIR",
+    "ilcekodu": "2117",
+    "ilceadi": "YENİŞEHİR"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2201",
+    "ilceadi": "ENEZ"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2202",
+    "ilceadi": "HAVSA"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2203",
+    "ilceadi": "İPSALA"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2204",
+    "ilceadi": "KEŞAN"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2205",
+    "ilceadi": "LALAPAŞA"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2206",
+    "ilceadi": "MERİÇ"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2207",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2208",
+    "ilceadi": "SÜLOĞLU"
+  },
+  {
+    "ilkodu": "22",
+    "iladi": "EDİRNE",
+    "ilcekodu": "2209",
+    "ilceadi": "UZUNKÖPRÜ"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2301",
+    "ilceadi": "AĞIN"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2302",
+    "ilceadi": "ALACAKAYA"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2303",
+    "ilceadi": "ARICAK"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2304",
+    "ilceadi": "BASKİL"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2305",
+    "ilceadi": "KARAKOÇAN"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2306",
+    "ilceadi": "KEBAN"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2307",
+    "ilceadi": "KOVANCILAR"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2308",
+    "ilceadi": "MADEN"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2309",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2310",
+    "ilceadi": "PALU"
+  },
+  {
+    "ilkodu": "23",
+    "iladi": "ELAZIĞ",
+    "ilcekodu": "2311",
+    "ilceadi": "SİVRİCE"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2401",
+    "ilceadi": "ÇAYIRLI"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2402",
+    "ilceadi": "İLİÇ"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2403",
+    "ilceadi": "KEMAH"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2404",
+    "ilceadi": "KEMALİYE"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2405",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2406",
+    "ilceadi": "OTLUKBELİ"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2407",
+    "ilceadi": "REFAHİYE"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2408",
+    "ilceadi": "TERCAN"
+  },
+  {
+    "ilkodu": "24",
+    "iladi": "ERZİNCAN",
+    "ilcekodu": "2409",
+    "ilceadi": "ÜZÜMLÜ"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2501",
+    "ilceadi": "AŞKALE"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2502",
+    "ilceadi": "AZİZİYE"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2503",
+    "ilceadi": "ÇAT"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2504",
+    "ilceadi": "HINIS"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2505",
+    "ilceadi": "HORASAN"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2506",
+    "ilceadi": "İSPİR"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2507",
+    "ilceadi": "KARAÇOBAN"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2508",
+    "ilceadi": "KARAYAZI"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2509",
+    "ilceadi": "KÖPRÜKÖY"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2510",
+    "ilceadi": "NARMAN"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2511",
+    "ilceadi": "OLTU"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2512",
+    "ilceadi": "OLUR"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2513",
+    "ilceadi": "PALANDÖKEN"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2514",
+    "ilceadi": "PASİNLER"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2515",
+    "ilceadi": "PAZARYOLU"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2516",
+    "ilceadi": "ŞENKAYA"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2517",
+    "ilceadi": "TEKMAN"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2518",
+    "ilceadi": "TORTUM"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2519",
+    "ilceadi": "UZUNDERE"
+  },
+  {
+    "ilkodu": "25",
+    "iladi": "ERZURUM",
+    "ilcekodu": "2520",
+    "ilceadi": "YAKUTİYE"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2601",
+    "ilceadi": "ALPU"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2602",
+    "ilceadi": "BEYLİKOVA"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2603",
+    "ilceadi": "ÇİFTELER"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2604",
+    "ilceadi": "GÜNYÜZÜ"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2605",
+    "ilceadi": "HAN"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2606",
+    "ilceadi": "İNÖNÜ"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2607",
+    "ilceadi": "MAHMUDİYE"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2608",
+    "ilceadi": "MİHALGAZİ"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2609",
+    "ilceadi": "MİHALIÇÇIK"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2610",
+    "ilceadi": "ODUNPAZARI"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2611",
+    "ilceadi": "SARICAKAYA"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2612",
+    "ilceadi": "SEYİTGAZİ"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2613",
+    "ilceadi": "SİVRİHİSAR"
+  },
+  {
+    "ilkodu": "26",
+    "iladi": "ESKİŞEHİR",
+    "ilcekodu": "2614",
+    "ilceadi": "TEPEBAŞI"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2701",
+    "ilceadi": "ARABAN"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2702",
+    "ilceadi": "İSLAHİYE"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2703",
+    "ilceadi": "KARKAMIŞ"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2704",
+    "ilceadi": "NİZİP"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2705",
+    "ilceadi": "NURDAĞI"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2706",
+    "ilceadi": "OĞUZELİ"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2707",
+    "ilceadi": "ŞAHİNBEY"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2708",
+    "ilceadi": "ŞEHİTKAMİL"
+  },
+  {
+    "ilkodu": "27",
+    "iladi": "GAZİANTEP",
+    "ilcekodu": "2709",
+    "ilceadi": "YAVUZELİ"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2801",
+    "ilceadi": "ALUCRA"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2802",
+    "ilceadi": "BULANCAK"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2803",
+    "ilceadi": "ÇAMOLUK"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2804",
+    "ilceadi": "ÇANAKÇI"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2805",
+    "ilceadi": "DERELİ"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2806",
+    "ilceadi": "DOĞANKENT"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2807",
+    "ilceadi": "ESPİYE"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2808",
+    "ilceadi": "EYNESİL"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2809",
+    "ilceadi": "GÖRELE"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2810",
+    "ilceadi": "GÜCE"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2811",
+    "ilceadi": "KEŞAP"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2812",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2813",
+    "ilceadi": "PİRAZİZ"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2814",
+    "ilceadi": "ŞEBİNKARAHİSAR"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2815",
+    "ilceadi": "TİREBOLU"
+  },
+  {
+    "ilkodu": "28",
+    "iladi": "GİRESUN",
+    "ilcekodu": "2816",
+    "ilceadi": "YAĞLIDERE"
+  },
+  {
+    "ilkodu": "29",
+    "iladi": "GÜMÜŞHANE",
+    "ilcekodu": "2901",
+    "ilceadi": "KELKİT"
+  },
+  {
+    "ilkodu": "29",
+    "iladi": "GÜMÜŞHANE",
+    "ilcekodu": "2902",
+    "ilceadi": "KÖSE"
+  },
+  {
+    "ilkodu": "29",
+    "iladi": "GÜMÜŞHANE",
+    "ilcekodu": "2903",
+    "ilceadi": "KÜRTÜN"
+  },
+  {
+    "ilkodu": "29",
+    "iladi": "GÜMÜŞHANE",
+    "ilcekodu": "2904",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "29",
+    "iladi": "GÜMÜŞHANE",
+    "ilcekodu": "2905",
+    "ilceadi": "ŞİRAN"
+  },
+  {
+    "ilkodu": "29",
+    "iladi": "GÜMÜŞHANE",
+    "ilcekodu": "2906",
+    "ilceadi": "TORUL"
+  },
+  {
+    "ilkodu": "30",
+    "iladi": "HAKKARİ",
+    "ilcekodu": "3001",
+    "ilceadi": "ÇUKURCA"
+  },
+  {
+    "ilkodu": "30",
+    "iladi": "HAKKARİ",
+    "ilcekodu": "3002",
+    "ilceadi": "DERECİK"
+  },
+  {
+    "ilkodu": "30",
+    "iladi": "HAKKARİ",
+    "ilcekodu": "3003",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "30",
+    "iladi": "HAKKARİ",
+    "ilcekodu": "3004",
+    "ilceadi": "ŞEMDİNLİ"
+  },
+  {
+    "ilkodu": "30",
+    "iladi": "HAKKARİ",
+    "ilcekodu": "3005",
+    "ilceadi": "YÜKSEKOVA"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3101",
+    "ilceadi": "ALTINÖZÜ"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3102",
+    "ilceadi": "ANTAKYA"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3103",
+    "ilceadi": "ARSUZ"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3104",
+    "ilceadi": "BELEN"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3105",
+    "ilceadi": "DEFNE"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3106",
+    "ilceadi": "DÖRTYOL"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3107",
+    "ilceadi": "ERZİN"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3108",
+    "ilceadi": "HASSA"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3109",
+    "ilceadi": "İSKENDERUN"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3110",
+    "ilceadi": "KIRIKHAN"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3111",
+    "ilceadi": "KUMLU"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3112",
+    "ilceadi": "PAYAS"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3113",
+    "ilceadi": "REYHANLI"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3114",
+    "ilceadi": "SAMANDAĞ"
+  },
+  {
+    "ilkodu": "31",
+    "iladi": "HATAY",
+    "ilcekodu": "3115",
+    "ilceadi": "YAYLADAĞI"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3201",
+    "ilceadi": "AKSU"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3202",
+    "ilceadi": "ATABEY"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3203",
+    "ilceadi": "EĞİRDİR"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3204",
+    "ilceadi": "GELENDOST"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3205",
+    "ilceadi": "GÖNEN"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3206",
+    "ilceadi": "KEÇİBORLU"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3207",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3208",
+    "ilceadi": "SENİRKENT"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3209",
+    "ilceadi": "SÜTÇÜLER"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3210",
+    "ilceadi": "ŞARKİKARAAĞAÇ"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3211",
+    "ilceadi": "ULUBORLU"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3212",
+    "ilceadi": "YALVAÇ"
+  },
+  {
+    "ilkodu": "32",
+    "iladi": "ISPARTA",
+    "ilcekodu": "3213",
+    "ilceadi": "YENİŞARBADEMLİ"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3301",
+    "ilceadi": "AKDENİZ"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3302",
+    "ilceadi": "ANAMUR"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3303",
+    "ilceadi": "AYDINCIK"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3304",
+    "ilceadi": "BOZYAZI"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3305",
+    "ilceadi": "ÇAMLIYAYLA"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3306",
+    "ilceadi": "ERDEMLİ"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3307",
+    "ilceadi": "GÜLNAR"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3308",
+    "ilceadi": "MEZİTLİ"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3309",
+    "ilceadi": "MUT"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3310",
+    "ilceadi": "SİLİFKE"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3311",
+    "ilceadi": "TARSUS"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3312",
+    "ilceadi": "TOROSLAR"
+  },
+  {
+    "ilkodu": "33",
+    "iladi": "MERSİN",
+    "ilcekodu": "3313",
+    "ilceadi": "YENİŞEHİR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3401",
+    "ilceadi": "ADALAR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3402",
+    "ilceadi": "ARNAVUTKÖY"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3403",
+    "ilceadi": "ATAŞEHİR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3404",
+    "ilceadi": "AVCILAR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3405",
+    "ilceadi": "BAĞCILAR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3406",
+    "ilceadi": "BAHÇELİEVLER"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3407",
+    "ilceadi": "BAKIRKÖY"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3408",
+    "ilceadi": "BAŞAKŞEHİR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3409",
+    "ilceadi": "BAYRAMPAŞA"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3410",
+    "ilceadi": "BEŞİKTAŞ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3411",
+    "ilceadi": "BEYKOZ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3412",
+    "ilceadi": "BEYLİKDÜZÜ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3413",
+    "ilceadi": "BEYOĞLU"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3414",
+    "ilceadi": "BÜYÜKÇEKMECE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3415",
+    "ilceadi": "ÇATALCA"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3416",
+    "ilceadi": "ÇEKMEKÖY"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3417",
+    "ilceadi": "ESENLER"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3418",
+    "ilceadi": "ESENYURT"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3419",
+    "ilceadi": "EYÜPSULTAN"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3420",
+    "ilceadi": "FATİH"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3421",
+    "ilceadi": "GAZİOSMANPAŞA"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3422",
+    "ilceadi": "GÜNGÖREN"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3423",
+    "ilceadi": "KADIKÖY"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3424",
+    "ilceadi": "KAĞITHANE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3425",
+    "ilceadi": "KARTAL"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3426",
+    "ilceadi": "KÜÇÜKÇEKMECE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3427",
+    "ilceadi": "MALTEPE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3428",
+    "ilceadi": "PENDİK"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3429",
+    "ilceadi": "SANCAKTEPE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3430",
+    "ilceadi": "SARIYER"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3431",
+    "ilceadi": "SİLİVRİ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3432",
+    "ilceadi": "SULTANBEYLİ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3433",
+    "ilceadi": "SULTANGAZİ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3434",
+    "ilceadi": "ŞİLE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3435",
+    "ilceadi": "ŞİŞLİ"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3436",
+    "ilceadi": "TUZLA"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3437",
+    "ilceadi": "ÜMRANİYE"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3438",
+    "ilceadi": "ÜSKÜDAR"
+  },
+  {
+    "ilkodu": "34",
+    "iladi": "İSTANBUL",
+    "ilcekodu": "3439",
+    "ilceadi": "ZEYTİNBURNU"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3501",
+    "ilceadi": "ALİAĞA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3502",
+    "ilceadi": "BALÇOVA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3503",
+    "ilceadi": "BAYINDIR"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3504",
+    "ilceadi": "BAYRAKLI"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3505",
+    "ilceadi": "BERGAMA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3506",
+    "ilceadi": "BEYDAĞ"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3507",
+    "ilceadi": "BORNOVA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3508",
+    "ilceadi": "BUCA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3509",
+    "ilceadi": "ÇEŞME"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3510",
+    "ilceadi": "ÇİĞLİ"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3511",
+    "ilceadi": "DİKİLİ"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3512",
+    "ilceadi": "FOÇA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3513",
+    "ilceadi": "GAZİEMİR"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3514",
+    "ilceadi": "GÜZELBAHÇE"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3515",
+    "ilceadi": "KARABAĞLAR"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3516",
+    "ilceadi": "KARABURUN"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3517",
+    "ilceadi": "KARŞIYAKA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3518",
+    "ilceadi": "KEMALPAŞA"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3519",
+    "ilceadi": "KINIK"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3520",
+    "ilceadi": "KİRAZ"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3521",
+    "ilceadi": "KONAK"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3522",
+    "ilceadi": "MENDERES"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3523",
+    "ilceadi": "MENEMEN"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3524",
+    "ilceadi": "NARLIDERE"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3525",
+    "ilceadi": "ÖDEMİŞ"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3526",
+    "ilceadi": "SEFERİHİSAR"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3527",
+    "ilceadi": "SELÇUK"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3528",
+    "ilceadi": "TİRE"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3529",
+    "ilceadi": "TORBALI"
+  },
+  {
+    "ilkodu": "35",
+    "iladi": "İZMİR",
+    "ilcekodu": "3530",
+    "ilceadi": "URLA"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3601",
+    "ilceadi": "AKYAKA"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3602",
+    "ilceadi": "ARPAÇAY"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3603",
+    "ilceadi": "DİGOR"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3604",
+    "ilceadi": "KAĞIZMAN"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3605",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3606",
+    "ilceadi": "SARIKAMIŞ"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3607",
+    "ilceadi": "SELİM"
+  },
+  {
+    "ilkodu": "36",
+    "iladi": "KARS",
+    "ilcekodu": "3608",
+    "ilceadi": "SUSUZ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3701",
+    "ilceadi": "ABANA"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3702",
+    "ilceadi": "AĞLI"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3703",
+    "ilceadi": "ARAÇ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3704",
+    "ilceadi": "AZDAVAY"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3705",
+    "ilceadi": "BOZKURT"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3706",
+    "ilceadi": "CİDE"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3707",
+    "ilceadi": "ÇATALZEYTİN"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3708",
+    "ilceadi": "DADAY"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3709",
+    "ilceadi": "DEVREKANİ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3710",
+    "ilceadi": "DOĞANYURT"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3711",
+    "ilceadi": "HANÖNÜ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3712",
+    "ilceadi": "İHSANGAZİ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3713",
+    "ilceadi": "İNEBOLU"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3714",
+    "ilceadi": "KÜRE"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3715",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3716",
+    "ilceadi": "PINARBAŞI"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3717",
+    "ilceadi": "SEYDİLER"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3718",
+    "ilceadi": "ŞENPAZAR"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3719",
+    "ilceadi": "TAŞKÖPRÜ"
+  },
+  {
+    "ilkodu": "37",
+    "iladi": "KASTAMONU",
+    "ilcekodu": "3720",
+    "ilceadi": "TOSYA"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3801",
+    "ilceadi": "AKKIŞLA"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3802",
+    "ilceadi": "BÜNYAN"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3803",
+    "ilceadi": "DEVELİ"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3804",
+    "ilceadi": "FELAHİYE"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3805",
+    "ilceadi": "HACILAR"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3806",
+    "ilceadi": "İNCESU"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3807",
+    "ilceadi": "KOCASİNAN"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3808",
+    "ilceadi": "MELİKGAZİ"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3809",
+    "ilceadi": "ÖZVATAN"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3810",
+    "ilceadi": "PINARBAŞI"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3811",
+    "ilceadi": "SARIOĞLAN"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3812",
+    "ilceadi": "SARIZ"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3813",
+    "ilceadi": "TALAS"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3814",
+    "ilceadi": "TOMARZA"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3815",
+    "ilceadi": "YAHYALI"
+  },
+  {
+    "ilkodu": "38",
+    "iladi": "KAYSERİ",
+    "ilcekodu": "3816",
+    "ilceadi": "YEŞİLHİSAR"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3901",
+    "ilceadi": "BABAESKİ"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3902",
+    "ilceadi": "DEMİRKÖY"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3903",
+    "ilceadi": "KOFÇAZ"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3904",
+    "ilceadi": "LÜLEBURGAZ"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3905",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3906",
+    "ilceadi": "PEHLİVANKÖY"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3907",
+    "ilceadi": "PINARHİSAR"
+  },
+  {
+    "ilkodu": "39",
+    "iladi": "KIRKLARELİ",
+    "ilcekodu": "3908",
+    "ilceadi": "VİZE"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4001",
+    "ilceadi": "AKÇAKENT"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4002",
+    "ilceadi": "AKPINAR"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4003",
+    "ilceadi": "BOZTEPE"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4004",
+    "ilceadi": "ÇİÇEKDAĞI"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4005",
+    "ilceadi": "KAMAN"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4006",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "40",
+    "iladi": "KIRŞEHİR",
+    "ilcekodu": "4007",
+    "ilceadi": "MUCUR"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4101",
+    "ilceadi": "BAŞİSKELE"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4102",
+    "ilceadi": "ÇAYIROVA"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4103",
+    "ilceadi": "DARICA"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4104",
+    "ilceadi": "DERİNCE"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4105",
+    "ilceadi": "DİLOVASI"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4106",
+    "ilceadi": "GEBZE"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4107",
+    "ilceadi": "GÖLCÜK"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4108",
+    "ilceadi": "İZMİT"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4109",
+    "ilceadi": "KANDIRA"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4110",
+    "ilceadi": "KARAMÜRSEL"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4111",
+    "ilceadi": "KARTEPE"
+  },
+  {
+    "ilkodu": "41",
+    "iladi": "KOCAELİ",
+    "ilcekodu": "4112",
+    "ilceadi": "KÖRFEZ"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4201",
+    "ilceadi": "AHIRLI"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4202",
+    "ilceadi": "AKÖREN"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4203",
+    "ilceadi": "AKŞEHİR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4204",
+    "ilceadi": "ALTINEKİN"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4205",
+    "ilceadi": "BEYŞEHİR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4206",
+    "ilceadi": "BOZKIR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4207",
+    "ilceadi": "CİHANBEYLİ"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4208",
+    "ilceadi": "ÇELTİK"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4209",
+    "ilceadi": "ÇUMRA"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4210",
+    "ilceadi": "DERBENT"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4211",
+    "ilceadi": "DEREBUCAK"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4212",
+    "ilceadi": "DOĞANHİSAR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4213",
+    "ilceadi": "EMİRGAZİ"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4214",
+    "ilceadi": "EREĞLİ"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4215",
+    "ilceadi": "GÜNEYSINIR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4216",
+    "ilceadi": "HADİM"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4217",
+    "ilceadi": "HALKAPINAR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4218",
+    "ilceadi": "HÜYÜK"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4219",
+    "ilceadi": "ILGIN"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4220",
+    "ilceadi": "KADINHANI"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4221",
+    "ilceadi": "KARAPINAR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4222",
+    "ilceadi": "KARATAY"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4223",
+    "ilceadi": "KULU"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4224",
+    "ilceadi": "MERAM"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4225",
+    "ilceadi": "SARAYÖNÜ"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4226",
+    "ilceadi": "SELÇUKLU"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4227",
+    "ilceadi": "SEYDİŞEHİR"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4228",
+    "ilceadi": "TAŞKENT"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4229",
+    "ilceadi": "TUZLUKÇU"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4230",
+    "ilceadi": "YALIHÜYÜK"
+  },
+  {
+    "ilkodu": "42",
+    "iladi": "KONYA",
+    "ilcekodu": "4231",
+    "ilceadi": "YUNAK"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4301",
+    "ilceadi": "ALTINTAŞ"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4302",
+    "ilceadi": "ASLANAPA"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4303",
+    "ilceadi": "ÇAVDARHİSAR"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4304",
+    "ilceadi": "DOMANİÇ"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4305",
+    "ilceadi": "DUMLUPINAR"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4306",
+    "ilceadi": "EMET"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4307",
+    "ilceadi": "GEDİZ"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4308",
+    "ilceadi": "HİSARCIK"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4309",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4310",
+    "ilceadi": "PAZARLAR"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4311",
+    "ilceadi": "SİMAV"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4312",
+    "ilceadi": "ŞAPHANE"
+  },
+  {
+    "ilkodu": "43",
+    "iladi": "KÜTAHYA",
+    "ilcekodu": "4313",
+    "ilceadi": "TAVŞANLI"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4401",
+    "ilceadi": "AKÇADAĞ"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4402",
+    "ilceadi": "ARAPGİR"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4403",
+    "ilceadi": "ARGUVAN"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4404",
+    "ilceadi": "BATTALGAZİ"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4405",
+    "ilceadi": "DARENDE"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4406",
+    "ilceadi": "DOĞANŞEHİR"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4407",
+    "ilceadi": "DOĞANYOL"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4408",
+    "ilceadi": "HEKİMHAN"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4409",
+    "ilceadi": "KALE"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4410",
+    "ilceadi": "KULUNCAK"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4411",
+    "ilceadi": "PÜTÜRGE"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4412",
+    "ilceadi": "YAZIHAN"
+  },
+  {
+    "ilkodu": "44",
+    "iladi": "MALATYA",
+    "ilcekodu": "4413",
+    "ilceadi": "YEŞİLYURT"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4501",
+    "ilceadi": "AHMETLİ"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4502",
+    "ilceadi": "AKHİSAR"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4503",
+    "ilceadi": "ALAŞEHİR"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4504",
+    "ilceadi": "DEMİRCİ"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4505",
+    "ilceadi": "GÖLMARMARA"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4506",
+    "ilceadi": "GÖRDES"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4507",
+    "ilceadi": "KIRKAĞAÇ"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4508",
+    "ilceadi": "KÖPRÜBAŞI"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4509",
+    "ilceadi": "KULA"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4510",
+    "ilceadi": "SALİHLİ"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4511",
+    "ilceadi": "SARIGÖL"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4512",
+    "ilceadi": "SARUHANLI"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4513",
+    "ilceadi": "SELENDİ"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4514",
+    "ilceadi": "SOMA"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4515",
+    "ilceadi": "ŞEHZADELER"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4516",
+    "ilceadi": "TURGUTLU"
+  },
+  {
+    "ilkodu": "45",
+    "iladi": "MANİSA",
+    "ilcekodu": "4517",
+    "ilceadi": "YUNUSEMRE"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4601",
+    "ilceadi": "AFŞİN"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4602",
+    "ilceadi": "ANDIRIN"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4603",
+    "ilceadi": "ÇAĞLAYANCERİT"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4604",
+    "ilceadi": "DULKADİROĞLU"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4605",
+    "ilceadi": "EKİNÖZÜ"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4606",
+    "ilceadi": "ELBİSTAN"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4607",
+    "ilceadi": "GÖKSUN"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4608",
+    "ilceadi": "NURHAK"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4609",
+    "ilceadi": "ONİKİŞUBAT"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4610",
+    "ilceadi": "PAZARCIK"
+  },
+  {
+    "ilkodu": "46",
+    "iladi": "KAHRAMANMARAŞ",
+    "ilcekodu": "4611",
+    "ilceadi": "TÜRKOĞLU"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4701",
+    "ilceadi": "ARTUKLU"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4702",
+    "ilceadi": "DARGEÇİT"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4703",
+    "ilceadi": "DERİK"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4704",
+    "ilceadi": "KIZILTEPE"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4705",
+    "ilceadi": "MAZIDAĞI"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4706",
+    "ilceadi": "MİDYAT"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4707",
+    "ilceadi": "NUSAYBİN"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4708",
+    "ilceadi": "ÖMERLİ"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4709",
+    "ilceadi": "SAVUR"
+  },
+  {
+    "ilkodu": "47",
+    "iladi": "MARDİN",
+    "ilcekodu": "4710",
+    "ilceadi": "YEŞİLLİ"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4801",
+    "ilceadi": "BODRUM"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4802",
+    "ilceadi": "DALAMAN"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4803",
+    "ilceadi": "DATÇA"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4804",
+    "ilceadi": "FETHİYE"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4805",
+    "ilceadi": "KAVAKLIDERE"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4806",
+    "ilceadi": "KÖYCEĞİZ"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4807",
+    "ilceadi": "MARMARİS"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4808",
+    "ilceadi": "MENTEŞE"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4809",
+    "ilceadi": "MİLAS"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4810",
+    "ilceadi": "ORTACA"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4811",
+    "ilceadi": "SEYDİKEMER"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4812",
+    "ilceadi": "ULA"
+  },
+  {
+    "ilkodu": "48",
+    "iladi": "MUĞLA",
+    "ilcekodu": "4813",
+    "ilceadi": "YATAĞAN"
+  },
+  {
+    "ilkodu": "49",
+    "iladi": "MUŞ",
+    "ilcekodu": "4901",
+    "ilceadi": "BULANIK"
+  },
+  {
+    "ilkodu": "49",
+    "iladi": "MUŞ",
+    "ilcekodu": "4902",
+    "ilceadi": "HASKÖY"
+  },
+  {
+    "ilkodu": "49",
+    "iladi": "MUŞ",
+    "ilcekodu": "4903",
+    "ilceadi": "KORKUT"
+  },
+  {
+    "ilkodu": "49",
+    "iladi": "MUŞ",
+    "ilcekodu": "4904",
+    "ilceadi": "MALAZGİRT"
+  },
+  {
+    "ilkodu": "49",
+    "iladi": "MUŞ",
+    "ilcekodu": "4905",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "49",
+    "iladi": "MUŞ",
+    "ilcekodu": "4906",
+    "ilceadi": "VARTO"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5001",
+    "ilceadi": "ACIGÖL"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5002",
+    "ilceadi": "AVANOS"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5003",
+    "ilceadi": "DERİNKUYU"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5004",
+    "ilceadi": "GÜLŞEHİR"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5005",
+    "ilceadi": "HACIBEKTAŞ"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5006",
+    "ilceadi": "KOZAKLI"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5007",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "50",
+    "iladi": "NEVŞEHİR",
+    "ilcekodu": "5008",
+    "ilceadi": "ÜRGÜP"
+  },
+  {
+    "ilkodu": "51",
+    "iladi": "NİĞDE",
+    "ilcekodu": "5101",
+    "ilceadi": "ALTUNHİSAR"
+  },
+  {
+    "ilkodu": "51",
+    "iladi": "NİĞDE",
+    "ilcekodu": "5102",
+    "ilceadi": "BOR"
+  },
+  {
+    "ilkodu": "51",
+    "iladi": "NİĞDE",
+    "ilcekodu": "5103",
+    "ilceadi": "ÇAMARDI"
+  },
+  {
+    "ilkodu": "51",
+    "iladi": "NİĞDE",
+    "ilcekodu": "5104",
+    "ilceadi": "ÇİFTLİK"
+  },
+  {
+    "ilkodu": "51",
+    "iladi": "NİĞDE",
+    "ilcekodu": "5105",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "51",
+    "iladi": "NİĞDE",
+    "ilcekodu": "5106",
+    "ilceadi": "ULUKIŞLA"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5201",
+    "ilceadi": "AKKUŞ"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5202",
+    "ilceadi": "ALTINORDU"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5203",
+    "ilceadi": "AYBASTI"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5204",
+    "ilceadi": "ÇAMAŞ"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5205",
+    "ilceadi": "ÇATALPINAR"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5206",
+    "ilceadi": "ÇAYBAŞI"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5207",
+    "ilceadi": "FATSA"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5208",
+    "ilceadi": "GÖLKÖY"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5209",
+    "ilceadi": "GÜLYALI"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5210",
+    "ilceadi": "GÜRGENTEPE"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5211",
+    "ilceadi": "İKİZCE"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5212",
+    "ilceadi": "KABADÜZ"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5213",
+    "ilceadi": "KABATAŞ"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5214",
+    "ilceadi": "KORGAN"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5215",
+    "ilceadi": "KUMRU"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5216",
+    "ilceadi": "MESUDİYE"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5217",
+    "ilceadi": "PERŞEMBE"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5218",
+    "ilceadi": "ULUBEY"
+  },
+  {
+    "ilkodu": "52",
+    "iladi": "ORDU",
+    "ilcekodu": "5219",
+    "ilceadi": "ÜNYE"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5301",
+    "ilceadi": "ARDEŞEN"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5302",
+    "ilceadi": "ÇAMLIHEMŞİN"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5303",
+    "ilceadi": "ÇAYELİ"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5304",
+    "ilceadi": "DEREPAZARI"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5305",
+    "ilceadi": "FINDIKLI"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5306",
+    "ilceadi": "GÜNEYSU"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5307",
+    "ilceadi": "HEMŞİN"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5308",
+    "ilceadi": "İKİZDERE"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5309",
+    "ilceadi": "İYİDERE"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5310",
+    "ilceadi": "KALKANDERE"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5311",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "53",
+    "iladi": "RİZE",
+    "ilcekodu": "5312",
+    "ilceadi": "PAZAR"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5401",
+    "ilceadi": "ADAPAZARI"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5402",
+    "ilceadi": "AKYAZI"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5403",
+    "ilceadi": "ARİFİYE"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5404",
+    "ilceadi": "ERENLER"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5405",
+    "ilceadi": "FERİZLİ"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5406",
+    "ilceadi": "GEYVE"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5407",
+    "ilceadi": "HENDEK"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5408",
+    "ilceadi": "KARAPÜRÇEK"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5409",
+    "ilceadi": "KARASU"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5410",
+    "ilceadi": "KAYNARCA"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5411",
+    "ilceadi": "KOCAALİ"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5412",
+    "ilceadi": "PAMUKOVA"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5413",
+    "ilceadi": "SAPANCA"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5414",
+    "ilceadi": "SERDİVAN"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5415",
+    "ilceadi": "SÖĞÜTLÜ"
+  },
+  {
+    "ilkodu": "54",
+    "iladi": "SAKARYA",
+    "ilcekodu": "5416",
+    "ilceadi": "TARAKLI"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5501",
+    "ilceadi": "19 MAYIS"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5502",
+    "ilceadi": "ALAÇAM"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5503",
+    "ilceadi": "ASARCIK"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5504",
+    "ilceadi": "ATAKUM"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5505",
+    "ilceadi": "AYVACIK"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5506",
+    "ilceadi": "BAFRA"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5507",
+    "ilceadi": "CANİK"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5508",
+    "ilceadi": "ÇARŞAMBA"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5509",
+    "ilceadi": "HAVZA"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5510",
+    "ilceadi": "İLKADIM"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5511",
+    "ilceadi": "KAVAK"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5512",
+    "ilceadi": "LADİK"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5513",
+    "ilceadi": "SALIPAZARI"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5514",
+    "ilceadi": "TEKKEKÖY"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5515",
+    "ilceadi": "TERME"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5516",
+    "ilceadi": "VEZİRKÖPRÜ"
+  },
+  {
+    "ilkodu": "55",
+    "iladi": "SAMSUN",
+    "ilcekodu": "5517",
+    "ilceadi": "YAKAKENT"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5601",
+    "ilceadi": "BAYKAN"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5602",
+    "ilceadi": "ERUH"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5603",
+    "ilceadi": "KURTALAN"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5604",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5605",
+    "ilceadi": "PERVARİ"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5606",
+    "ilceadi": "ŞİRVAN"
+  },
+  {
+    "ilkodu": "56",
+    "iladi": "SİİRT",
+    "ilcekodu": "5607",
+    "ilceadi": "TİLLO"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5701",
+    "ilceadi": "AYANCIK"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5702",
+    "ilceadi": "BOYABAT"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5703",
+    "ilceadi": "DİKMEN"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5704",
+    "ilceadi": "DURAĞAN"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5705",
+    "ilceadi": "ERFELEK"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5706",
+    "ilceadi": "GERZE"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5707",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5708",
+    "ilceadi": "SARAYDÜZÜ"
+  },
+  {
+    "ilkodu": "57",
+    "iladi": "SİNOP",
+    "ilcekodu": "5709",
+    "ilceadi": "TÜRKELİ"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5801",
+    "ilceadi": "AKINCILAR"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5802",
+    "ilceadi": "ALTINYAYLA"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5803",
+    "ilceadi": "DİVRİĞİ"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5804",
+    "ilceadi": "DOĞANŞAR"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5805",
+    "ilceadi": "GEMEREK"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5806",
+    "ilceadi": "GÖLOVA"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5807",
+    "ilceadi": "GÜRÜN"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5808",
+    "ilceadi": "HAFİK"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5809",
+    "ilceadi": "İMRANLI"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5810",
+    "ilceadi": "KANGAL"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5811",
+    "ilceadi": "KOYULHİSAR"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5812",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5813",
+    "ilceadi": "SUŞEHRİ"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5814",
+    "ilceadi": "ŞARKIŞLA"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5815",
+    "ilceadi": "ULAŞ"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5816",
+    "ilceadi": "YILDIZELİ"
+  },
+  {
+    "ilkodu": "58",
+    "iladi": "SİVAS",
+    "ilcekodu": "5817",
+    "ilceadi": "ZARA"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5901",
+    "ilceadi": "ÇERKEZKÖY"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5902",
+    "ilceadi": "ÇORLU"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5903",
+    "ilceadi": "ERGENE"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5904",
+    "ilceadi": "HAYRABOLU"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5905",
+    "ilceadi": "KAPAKLI"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5906",
+    "ilceadi": "MALKARA"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5907",
+    "ilceadi": "MARMARAEREĞLİSİ"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5908",
+    "ilceadi": "MURATLI"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5909",
+    "ilceadi": "SARAY"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5910",
+    "ilceadi": "SÜLEYMANPAŞA"
+  },
+  {
+    "ilkodu": "59",
+    "iladi": "TEKİRDAĞ",
+    "ilcekodu": "5911",
+    "ilceadi": "ŞARKÖY"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6001",
+    "ilceadi": "ALMUS"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6002",
+    "ilceadi": "ARTOVA"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6003",
+    "ilceadi": "BAŞÇİFTLİK"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6004",
+    "ilceadi": "ERBAA"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6005",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6006",
+    "ilceadi": "NİKSAR"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6007",
+    "ilceadi": "PAZAR"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6008",
+    "ilceadi": "REŞADİYE"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6009",
+    "ilceadi": "SULUSARAY"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6010",
+    "ilceadi": "TURHAL"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6011",
+    "ilceadi": "YEŞİLYURT"
+  },
+  {
+    "ilkodu": "60",
+    "iladi": "TOKAT",
+    "ilcekodu": "6012",
+    "ilceadi": "ZİLE"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6101",
+    "ilceadi": "AKÇAABAT"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6102",
+    "ilceadi": "ARAKLI"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6103",
+    "ilceadi": "ARSİN"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6104",
+    "ilceadi": "BEŞİKDÜZÜ"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6105",
+    "ilceadi": "ÇARŞIBAŞI"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6106",
+    "ilceadi": "ÇAYKARA"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6107",
+    "ilceadi": "DERNEKPAZARI"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6108",
+    "ilceadi": "DÜZKÖY"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6109",
+    "ilceadi": "HAYRAT"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6110",
+    "ilceadi": "KÖPRÜBAŞI"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6111",
+    "ilceadi": "MAÇKA"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6112",
+    "ilceadi": "OF"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6113",
+    "ilceadi": "ORTAHİSAR"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6114",
+    "ilceadi": "SÜRMENE"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6115",
+    "ilceadi": "ŞALPAZARI"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6116",
+    "ilceadi": "TONYA"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6117",
+    "ilceadi": "VAKFIKEBİR"
+  },
+  {
+    "ilkodu": "61",
+    "iladi": "TRABZON",
+    "ilcekodu": "6118",
+    "ilceadi": "YOMRA"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6201",
+    "ilceadi": "ÇEMİŞGEZEK"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6202",
+    "ilceadi": "HOZAT"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6203",
+    "ilceadi": "MAZGİRT"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6204",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6205",
+    "ilceadi": "NAZIMİYE"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6206",
+    "ilceadi": "OVACIK"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6207",
+    "ilceadi": "PERTEK"
+  },
+  {
+    "ilkodu": "62",
+    "iladi": "TUNCELİ",
+    "ilcekodu": "6208",
+    "ilceadi": "PÜLÜMÜR"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6301",
+    "ilceadi": "AKÇAKALE"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6302",
+    "ilceadi": "BİRECİK"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6303",
+    "ilceadi": "BOZOVA"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6304",
+    "ilceadi": "CEYLANPINAR"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6305",
+    "ilceadi": "EYYÜBİYE"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6306",
+    "ilceadi": "HALFETİ"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6307",
+    "ilceadi": "HALİLİYE"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6308",
+    "ilceadi": "HARRAN"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6309",
+    "ilceadi": "HİLVAN"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6310",
+    "ilceadi": "KARAKÖPRÜ"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6311",
+    "ilceadi": "SİVEREK"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6312",
+    "ilceadi": "SURUÇ"
+  },
+  {
+    "ilkodu": "63",
+    "iladi": "ŞANLIURFA",
+    "ilcekodu": "6313",
+    "ilceadi": "VİRANŞEHİR"
+  },
+  {
+    "ilkodu": "64",
+    "iladi": "UŞAK",
+    "ilcekodu": "6401",
+    "ilceadi": "BANAZ"
+  },
+  {
+    "ilkodu": "64",
+    "iladi": "UŞAK",
+    "ilcekodu": "6402",
+    "ilceadi": "EŞME"
+  },
+  {
+    "ilkodu": "64",
+    "iladi": "UŞAK",
+    "ilcekodu": "6403",
+    "ilceadi": "KARAHALLI"
+  },
+  {
+    "ilkodu": "64",
+    "iladi": "UŞAK",
+    "ilcekodu": "6404",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "64",
+    "iladi": "UŞAK",
+    "ilcekodu": "6405",
+    "ilceadi": "SİVASLI"
+  },
+  {
+    "ilkodu": "64",
+    "iladi": "UŞAK",
+    "ilcekodu": "6406",
+    "ilceadi": "ULUBEY"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6501",
+    "ilceadi": "BAHÇESARAY"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6502",
+    "ilceadi": "BAŞKALE"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6503",
+    "ilceadi": "ÇALDIRAN"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6504",
+    "ilceadi": "ÇATAK"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6505",
+    "ilceadi": "EDREMİT"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6506",
+    "ilceadi": "ERCİŞ"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6507",
+    "ilceadi": "GEVAŞ"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6508",
+    "ilceadi": "GÜRPINAR"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6509",
+    "ilceadi": "İPEKYOLU"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6510",
+    "ilceadi": "MURADİYE"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6511",
+    "ilceadi": "ÖZALP"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6512",
+    "ilceadi": "SARAY"
+  },
+  {
+    "ilkodu": "65",
+    "iladi": "VAN",
+    "ilcekodu": "6513",
+    "ilceadi": "TUŞBA"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6601",
+    "ilceadi": "AKDAĞMADENİ"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6602",
+    "ilceadi": "AYDINCIK"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6603",
+    "ilceadi": "BOĞAZLIYAN"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6604",
+    "ilceadi": "ÇANDIR"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6605",
+    "ilceadi": "ÇAYIRALAN"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6606",
+    "ilceadi": "ÇEKEREK"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6607",
+    "ilceadi": "KADIŞEHRİ"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6608",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6609",
+    "ilceadi": "SARAYKENT"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6610",
+    "ilceadi": "SARIKAYA"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6611",
+    "ilceadi": "SORGUN"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6612",
+    "ilceadi": "ŞEFAATLİ"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6613",
+    "ilceadi": "YENİFAKILI"
+  },
+  {
+    "ilkodu": "66",
+    "iladi": "YOZGAT",
+    "ilcekodu": "6614",
+    "ilceadi": "YERKÖY"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6701",
+    "ilceadi": "ALAPLI"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6702",
+    "ilceadi": "ÇAYCUMA"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6703",
+    "ilceadi": "DEVREK"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6704",
+    "ilceadi": "EREĞLİ"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6705",
+    "ilceadi": "GÖKÇEBEY"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6706",
+    "ilceadi": "KİLİMLİ"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6707",
+    "ilceadi": "KOZLU"
+  },
+  {
+    "ilkodu": "67",
+    "iladi": "ZONGULDAK",
+    "ilcekodu": "6708",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6801",
+    "ilceadi": "AĞAÇÖREN"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6802",
+    "ilceadi": "ESKİL"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6803",
+    "ilceadi": "GÜLAĞAÇ"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6804",
+    "ilceadi": "GÜZELYURT"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6805",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6806",
+    "ilceadi": "ORTAKÖY"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6807",
+    "ilceadi": "SARIYAHŞİ"
+  },
+  {
+    "ilkodu": "68",
+    "iladi": "AKSARAY",
+    "ilcekodu": "6808",
+    "ilceadi": "SULTANHANI"
+  },
+  {
+    "ilkodu": "69",
+    "iladi": "BAYBURT",
+    "ilcekodu": "6901",
+    "ilceadi": "AYDINTEPE"
+  },
+  {
+    "ilkodu": "69",
+    "iladi": "BAYBURT",
+    "ilcekodu": "6902",
+    "ilceadi": "DEMİRÖZÜ"
+  },
+  {
+    "ilkodu": "69",
+    "iladi": "BAYBURT",
+    "ilcekodu": "6903",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "70",
+    "iladi": "KARAMAN",
+    "ilcekodu": "7001",
+    "ilceadi": "AYRANCI"
+  },
+  {
+    "ilkodu": "70",
+    "iladi": "KARAMAN",
+    "ilcekodu": "7002",
+    "ilceadi": "BAŞYAYLA"
+  },
+  {
+    "ilkodu": "70",
+    "iladi": "KARAMAN",
+    "ilcekodu": "7003",
+    "ilceadi": "ERMENEK"
+  },
+  {
+    "ilkodu": "70",
+    "iladi": "KARAMAN",
+    "ilcekodu": "7004",
+    "ilceadi": "KAZIMKARABEKİR"
+  },
+  {
+    "ilkodu": "70",
+    "iladi": "KARAMAN",
+    "ilcekodu": "7005",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "70",
+    "iladi": "KARAMAN",
+    "ilcekodu": "7006",
+    "ilceadi": "SARIVELİLER"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7101",
+    "ilceadi": "BAHŞILI"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7102",
+    "ilceadi": "BALIŞEYH"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7103",
+    "ilceadi": "ÇELEBİ"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7104",
+    "ilceadi": "DELİCE"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7105",
+    "ilceadi": "KARAKEÇİLİ"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7106",
+    "ilceadi": "KESKİN"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7107",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7108",
+    "ilceadi": "SULAKYURT"
+  },
+  {
+    "ilkodu": "71",
+    "iladi": "KIRIKKALE",
+    "ilcekodu": "7109",
+    "ilceadi": "YAHŞİHAN"
+  },
+  {
+    "ilkodu": "72",
+    "iladi": "BATMAN",
+    "ilcekodu": "7201",
+    "ilceadi": "BEŞİRİ"
+  },
+  {
+    "ilkodu": "72",
+    "iladi": "BATMAN",
+    "ilcekodu": "7202",
+    "ilceadi": "GERCÜŞ"
+  },
+  {
+    "ilkodu": "72",
+    "iladi": "BATMAN",
+    "ilcekodu": "7203",
+    "ilceadi": "HASANKEYF"
+  },
+  {
+    "ilkodu": "72",
+    "iladi": "BATMAN",
+    "ilcekodu": "7204",
+    "ilceadi": "KOZLUK"
+  },
+  {
+    "ilkodu": "72",
+    "iladi": "BATMAN",
+    "ilcekodu": "7205",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "72",
+    "iladi": "BATMAN",
+    "ilcekodu": "7206",
+    "ilceadi": "SASON"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7301",
+    "ilceadi": "BEYTÜŞŞEBAP"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7302",
+    "ilceadi": "CİZRE"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7303",
+    "ilceadi": "GÜÇLÜKONAK"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7304",
+    "ilceadi": "İDİL"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7305",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7306",
+    "ilceadi": "SİLOPİ"
+  },
+  {
+    "ilkodu": "73",
+    "iladi": "ŞIRNAK",
+    "ilcekodu": "7307",
+    "ilceadi": "ULUDERE"
+  },
+  {
+    "ilkodu": "74",
+    "iladi": "BARTIN",
+    "ilcekodu": "7401",
+    "ilceadi": "AMASRA"
+  },
+  {
+    "ilkodu": "74",
+    "iladi": "BARTIN",
+    "ilcekodu": "7402",
+    "ilceadi": "KURUCAŞİLE"
+  },
+  {
+    "ilkodu": "74",
+    "iladi": "BARTIN",
+    "ilcekodu": "7403",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "74",
+    "iladi": "BARTIN",
+    "ilcekodu": "7404",
+    "ilceadi": "ULUS"
+  },
+  {
+    "ilkodu": "75",
+    "iladi": "ARDAHAN",
+    "ilcekodu": "7501",
+    "ilceadi": "ÇILDIR"
+  },
+  {
+    "ilkodu": "75",
+    "iladi": "ARDAHAN",
+    "ilcekodu": "7502",
+    "ilceadi": "DAMAL"
+  },
+  {
+    "ilkodu": "75",
+    "iladi": "ARDAHAN",
+    "ilcekodu": "7503",
+    "ilceadi": "GÖLE"
+  },
+  {
+    "ilkodu": "75",
+    "iladi": "ARDAHAN",
+    "ilcekodu": "7504",
+    "ilceadi": "HANAK"
+  },
+  {
+    "ilkodu": "75",
+    "iladi": "ARDAHAN",
+    "ilcekodu": "7505",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "75",
+    "iladi": "ARDAHAN",
+    "ilcekodu": "7506",
+    "ilceadi": "POSOF"
+  },
+  {
+    "ilkodu": "76",
+    "iladi": "IĞDIR",
+    "ilcekodu": "7601",
+    "ilceadi": "ARALIK"
+  },
+  {
+    "ilkodu": "76",
+    "iladi": "IĞDIR",
+    "ilcekodu": "7602",
+    "ilceadi": "KARAKOYUNLU"
+  },
+  {
+    "ilkodu": "76",
+    "iladi": "IĞDIR",
+    "ilcekodu": "7603",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "76",
+    "iladi": "IĞDIR",
+    "ilcekodu": "7604",
+    "ilceadi": "TUZLUCA"
+  },
+  {
+    "ilkodu": "77",
+    "iladi": "YALOVA",
+    "ilcekodu": "7701",
+    "ilceadi": "ALTINOVA"
+  },
+  {
+    "ilkodu": "77",
+    "iladi": "YALOVA",
+    "ilcekodu": "7702",
+    "ilceadi": "ARMUTLU"
+  },
+  {
+    "ilkodu": "77",
+    "iladi": "YALOVA",
+    "ilcekodu": "7703",
+    "ilceadi": "ÇINARCIK"
+  },
+  {
+    "ilkodu": "77",
+    "iladi": "YALOVA",
+    "ilcekodu": "7704",
+    "ilceadi": "ÇİFTLİKKÖY"
+  },
+  {
+    "ilkodu": "77",
+    "iladi": "YALOVA",
+    "ilcekodu": "7705",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "77",
+    "iladi": "YALOVA",
+    "ilcekodu": "7706",
+    "ilceadi": "TERMAL"
+  },
+  {
+    "ilkodu": "78",
+    "iladi": "KARABÜK",
+    "ilcekodu": "7801",
+    "ilceadi": "EFLANİ"
+  },
+  {
+    "ilkodu": "78",
+    "iladi": "KARABÜK",
+    "ilcekodu": "7802",
+    "ilceadi": "ESKİPAZAR"
+  },
+  {
+    "ilkodu": "78",
+    "iladi": "KARABÜK",
+    "ilcekodu": "7803",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "78",
+    "iladi": "KARABÜK",
+    "ilcekodu": "7804",
+    "ilceadi": "OVACIK"
+  },
+  {
+    "ilkodu": "78",
+    "iladi": "KARABÜK",
+    "ilcekodu": "7805",
+    "ilceadi": "SAFRANBOLU"
+  },
+  {
+    "ilkodu": "78",
+    "iladi": "KARABÜK",
+    "ilcekodu": "7806",
+    "ilceadi": "YENİCE"
+  },
+  {
+    "ilkodu": "79",
+    "iladi": "KİLİS",
+    "ilcekodu": "7901",
+    "ilceadi": "ELBEYLİ"
+  },
+  {
+    "ilkodu": "79",
+    "iladi": "KİLİS",
+    "ilcekodu": "7902",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "79",
+    "iladi": "KİLİS",
+    "ilcekodu": "7903",
+    "ilceadi": "MUSABEYLİ"
+  },
+  {
+    "ilkodu": "79",
+    "iladi": "KİLİS",
+    "ilcekodu": "7904",
+    "ilceadi": "POLATELİ"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8001",
+    "ilceadi": "BAHÇE"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8002",
+    "ilceadi": "DÜZİÇİ"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8003",
+    "ilceadi": "HASANBEYLİ"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8004",
+    "ilceadi": "KADİRLİ"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8005",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8006",
+    "ilceadi": "SUMBAS"
+  },
+  {
+    "ilkodu": "80",
+    "iladi": "OSMANİYE",
+    "ilcekodu": "8007",
+    "ilceadi": "TOPRAKKALE"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8101",
+    "ilceadi": "AKÇAKOCA"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8102",
+    "ilceadi": "CUMAYERİ"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8103",
+    "ilceadi": "ÇİLİMLİ"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8104",
+    "ilceadi": "GÖLYAKA"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8105",
+    "ilceadi": "GÜMÜŞOVA"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8106",
+    "ilceadi": "KAYNAŞLI"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8107",
+    "ilceadi": "MERKEZ"
+  },
+  {
+    "ilkodu": "81",
+    "iladi": "DÜZCE",
+    "ilcekodu": "8108",
+    "ilceadi": "YIĞILCA"
+  }
+]

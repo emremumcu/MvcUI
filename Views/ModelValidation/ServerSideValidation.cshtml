@@ -1,0 +1,17 @@
+﻿<form method="post" asp-controller="ModelValidation" asp-action="ServerSideValidation" asp-antiforgery="true">
+
+    <h1>Server Side Model Validation</h1>
+
+    @Html.AntiForgeryToken()
+    @Html.ValidationMessage("MSG", new { @class = "" })
+    @Html.ValidationSummary(true, "Validation Summary:", new { @class = "" })
+
+    <hr />
+
+    @Html.EditorForModel()
+
+    <hr />
+
+    <input type="submit" />
+
+</form>

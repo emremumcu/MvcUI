@@ -1,0 +1,30 @@
+﻿@model MvcUI.Models.UserModel
+
+<form method="post" asp-controller="ModelValidation" asp-action="ClientSideValidation" asp-antiforgery="true">
+
+    <h1>Client Side Model Validation Sample</h1>
+
+    @Html.AntiForgeryToken()
+    @Html.ValidationMessage("MSG", new { @class = "" })
+    @Html.ValidationSummary(true, "Validation Summary:", new { @class = "" })
+
+    <hr />
+
+    <input asp-for="Id" />
+    <span asp-validation-for="Id"></span>
+
+    <hr />
+
+    @Html.EditorForModel()
+
+    <hr />
+
+    <input type="submit" />
+
+</form>
+
+@section scriptSection {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}

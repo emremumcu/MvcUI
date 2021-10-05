@@ -1,0 +1,19 @@
+﻿
+
+<div class="m-4 p-4 bg-light">
+
+    <h1>Model Validation Forms</h1>
+
+    <div class="btn-group">
+        <button type="button" class="btn btn-warning dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            Validations
+        </button>
+        <ul class="dropdown-menu">
+            <li>@Html.ActionLink("Client Side Validation", "ClientSideValidation", "ModelValidation", null, new { @class = "dropdown-item" })</li>
+            <li>@Html.ActionLink("Server Side Validation", "ServerSideValidation", "ModelValidation", null, new { @class = "dropdown-item" })</li>
+            <li><hr class="dropdown-divider"></li>
+            <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "dropdown-item" })</li>
+        </ul>
+    </div>
+
+</div>

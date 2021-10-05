@@ -1,0 +1,124 @@
+﻿
+<form asp-controller="Ajax" asp-action="Index"
+      data-ajax="true"
+      data-ajax-method="POST"
+      data-ajax-begin="onBegin"
+      data-ajax-complete="onComplete"
+      data-ajax-failure="onFailed"
+      data-ajax-success="onSuccess"
+      data-ajax-update="#ajaxDiv"
+      data-ajax-mode="replace"
+      data-ajax-loading="#spinner"
+      data-ajax-cache="false">
+
+    <input type="submit" value="System DateTime" class="btn btn-primary" />
+    <span class="p-2" id="spinner" style="display:none;"><i class="fas fa-spinner fa-spin"></i> Loading...</span>
+</form>
+
+<hr />
+
+<form method="post"
+      data-ajax="true"
+      data-ajax-method="post"
+      data-ajax-url="/Ajax/SehirAraView"
+      data-ajax-begin="onBegin"
+      data-ajax-success="onSuccess"
+      data-ajax-failure="onFail"
+      data-ajax-complete="onComplete"
+      data-ajax-mode="replace"
+      data-ajax-update="#ajaxDiv"
+      data-ajax-loading="#spinner2">
+
+    <input type="text" name="searchParam" id="searchParam" autocomplete="off" placeholder="Şehir Adı (Like Search)" />
+    <input type="submit" value="Şehir Listesi" />
+    <span class="p-2" id="spinner2" style="display:none;"><i class="fas fa-spinner fa-spin"></i> Loading...</span>
+</form>
+
+<hr />
+
+<h6>You can also Trigger AjaxForms using Anchor. Try Clicking below anchor to see:</h6>
+
+<a href="#" data-ajax="true" data-ajax-url="/Ajax/SehirAraView?searchParam=B" data-ajax-update="#ajaxDiv">Click here to load cities starting with B</a>
+
+<hr />
+
+<div id="ajaxDiv">No Data</div>
+
+<hr />
+
+@section scriptSection {
+
+    <script>
+
+        onBegin = function (xhr, props) {
+            console.log("onBegin");
+            xhr.setRequestHeader("custom-header", "custom-header-value");
+            console.log(xhr);
+            console.log(props);
+            loading(true);
+        };
+
+        onComplete = function (xhr, status) {
+            console.log("onComplete");
+            console.log(xhr);
+            console.log(status);
+            loading(false);
+        };
+
+        onFailed = function (xhr, status, error) {
+            console.log("onFailed");
+            console.log(xhr);
+            console.log(`${xhr.status} ${xhr.statusText} ${xhr.responseText}`);
+            console.log("status:" + status);
+            console.log("error:" + error);
+        };
+
+        onSuccess = function (data, status, xhr) {
+            console.log("onSuccess");
+            console.log(data);
+            console.log(status);
+            console.log(xhr);
+        };
+
+    </script>
+
+
+}
+
+
+
+
+
+
+
+
+
+@*
+
+    https://github.com/aspnet/jquery-ajax-unobtrusive
+    -------------------------------------
+    jquery-ajax-unobtrusive documentation
+    -------------------------------------
+    data-ajax="true" – To enable the functionality for a form.
+    data-ajax-update – Css selector for the elements that are updated with the AJAX result, using the mode.
+    data-ajax-mode
+        data-ajax-mode="before" – Prepends the data to the element.
+        data-ajax-mode="after" – Appends the data to the element.
+        data-ajax-mode="replace" – Replaces the element with the data.
+        Otherwise sets the HTML content of the element to the data.
+    data-ajax-confirm – Message that is displayed to the user to confirm the form submission.
+    data-ajax-loading – Selector of element that is shown while loading.
+    data-ajax-loading-duration (default: 0) – Animation duration for show/hide of the loading element.
+    data-ajax-method – Allows overwriting the HTTP method for the AJAX request.
+    data-ajax-url – Allows overwriting the URL for the AJAX request.
+    data-ajax-cache – Set to other value than "true" to disable the jQuery AJAX cache parameter.
+    data-ajax-begin – Callback function before the request starts (arguments: xhr)
+    data-ajax-complete – Callback function when the request is completed (arguments: xhr, status)
+    data-ajax-success – Callback function when the request was successful (arguments: data, status, xhr)
+    data-ajax-failure – Callback function when the request failed (arguments: xhr, status, error)
+    The callback functions are the equivalent of jQuery’s beforeSend, complete, success, and failure. From how it looks, you can specify the callbacks using a JavaScript object path to the function.
+    --------------------------------------
+    For example data-ajax-success="foo.bar.onSuccess" will call the function foo.bar.onSuccess(), i.e. it will look for an object foo in the window, get its bar member, and call onSuccess on that.
+
+
+*@

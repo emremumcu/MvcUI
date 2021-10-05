@@ -1,0 +1,12 @@
+﻿<form method="post" asp-controller="MultiActionForm" asp-action="SubmitNameValue" asp-antiforgery="true">
+
+    <p>Multiple form actions using submit button's name and value properties:</p>
+
+    <i>Buttons are given the same name, but different values in the HTML markup. THe corresponding 'UserAction' parameter in 'SubmitNameValue' action is set by this value.</i>
+
+    <hr />
+
+    <input type="submit" name="UserAction" value="Save" class="btn btn-success" />
+    <input type="submit" name="UserAction" value="Cancel" class="btn btn-primary" />
+
+</form>

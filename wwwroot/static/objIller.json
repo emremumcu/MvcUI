@@ -1,0 +1,327 @@
+{
+"iller": [
+	{
+		"ilkodu" : "01",
+		"iladi" : "ADANA"
+	},
+	{
+		"ilkodu" : "02",
+		"iladi" : "ADIYAMAN"
+	},
+	{
+		"ilkodu" : "03",
+		"iladi" : "AFYONKARAHİSAR"
+	},
+	{
+		"ilkodu" : "04",
+		"iladi" : "AĞRI"
+	},
+	{
+		"ilkodu" : "05",
+		"iladi" : "AMASYA"
+	},
+	{
+		"ilkodu" : "06",
+		"iladi" : "ANKARA"
+	},
+	{
+		"ilkodu" : "07",
+		"iladi" : "ANTALYA"
+	},
+	{
+		"ilkodu" : "08",
+		"iladi" : "ARTVİN"
+	},
+	{
+		"ilkodu" : "09",
+		"iladi" : "AYDIN"
+	},
+	{
+		"ilkodu" : "10",
+		"iladi" : "BALIKESİR"
+	},
+	{
+		"ilkodu" : "11",
+		"iladi" : "BİLECİK"
+	},
+	{
+		"ilkodu" : "12",
+		"iladi" : "BİNGÖL"
+	},
+	{
+		"ilkodu" : "13",
+		"iladi" : "BİTLİS"
+	},
+	{
+		"ilkodu" : "14",
+		"iladi" : "BOLU"
+	},
+	{
+		"ilkodu" : "15",
+		"iladi" : "BURDUR"
+	},
+	{
+		"ilkodu" : "16",
+		"iladi" : "BURSA"
+	},
+	{
+		"ilkodu" : "17",
+		"iladi" : "ÇANAKKALE"
+	},
+	{
+		"ilkodu" : "18",
+		"iladi" : "ÇANKIRI"
+	},
+	{
+		"ilkodu" : "19",
+		"iladi" : "ÇORUM"
+	},
+	{
+		"ilkodu" : "20",
+		"iladi" : "DENİZLİ"
+	},
+	{
+		"ilkodu" : "21",
+		"iladi" : "DİYARBAKIR"
+	},
+	{
+		"ilkodu" : "22",
+		"iladi" : "EDİRNE"
+	},
+	{
+		"ilkodu" : "23",
+		"iladi" : "ELAZIĞ"
+	},
+	{
+		"ilkodu" : "24",
+		"iladi" : "ERZİNCAN"
+	},
+	{
+		"ilkodu" : "25",
+		"iladi" : "ERZURUM"
+	},
+	{
+		"ilkodu" : "26",
+		"iladi" : "ESKİŞEHİR"
+	},
+	{
+		"ilkodu" : "27",
+		"iladi" : "GAZİANTEP"
+	},
+	{
+		"ilkodu" : "28",
+		"iladi" : "GİRESUN"
+	},
+	{
+		"ilkodu" : "29",
+		"iladi" : "GÜMÜŞHANE"
+	},
+	{
+		"ilkodu" : "30",
+		"iladi" : "HAKKARİ"
+	},
+	{
+		"ilkodu" : "31",
+		"iladi" : "HATAY"
+	},
+	{
+		"ilkodu" : "32",
+		"iladi" : "ISPARTA"
+	},
+	{
+		"ilkodu" : "33",
+		"iladi" : "MERSİN"
+	},
+	{
+		"ilkodu" : "34",
+		"iladi" : "İSTANBUL"
+	},
+	{
+		"ilkodu" : "35",
+		"iladi" : "İZMİR"
+	},
+	{
+		"ilkodu" : "36",
+		"iladi" : "KARS"
+	},
+	{
+		"ilkodu" : "37",
+		"iladi" : "KASTAMONU"
+	},
+	{
+		"ilkodu" : "38",
+		"iladi" : "KAYSERİ"
+	},
+	{
+		"ilkodu" : "39",
+		"iladi" : "KIRKLARELİ"
+	},
+	{
+		"ilkodu" : "40",
+		"iladi" : "KIRŞEHİR"
+	},
+	{
+		"ilkodu" : "41",
+		"iladi" : "KOCAELİ"
+	},
+	{
+		"ilkodu" : "42",
+		"iladi" : "KONYA"
+	},
+	{
+		"ilkodu" : "43",
+		"iladi" : "KÜTAHYA"
+	},
+	{
+		"ilkodu" : "44",
+		"iladi" : "MALATYA"
+	},
+	{
+		"ilkodu" : "45",
+		"iladi" : "MANİSA"
+	},
+	{
+		"ilkodu" : "46",
+		"iladi" : "KAHRAMANMARAŞ"
+	},
+	{
+		"ilkodu" : "47",
+		"iladi" : "MARDİN"
+	},
+	{
+		"ilkodu" : "48",
+		"iladi" : "MUĞLA"
+	},
+	{
+		"ilkodu" : "49",
+		"iladi" : "MUŞ"
+	},
+	{
+		"ilkodu" : "50",
+		"iladi" : "NEVŞEHİR"
+	},
+	{
+		"ilkodu" : "51",
+		"iladi" : "NİĞDE"
+	},
+	{
+		"ilkodu" : "52",
+		"iladi" : "ORDU"
+	},
+	{
+		"ilkodu" : "53",
+		"iladi" : "RİZE"
+	},
+	{
+		"ilkodu" : "54",
+		"iladi" : "SAKARYA"
+	},
+	{
+		"ilkodu" : "55",
+		"iladi" : "SAMSUN"
+	},
+	{
+		"ilkodu" : "56",
+		"iladi" : "SİİRT"
+	},
+	{
+		"ilkodu" : "57",
+		"iladi" : "SİNOP"
+	},
+	{
+		"ilkodu" : "58",
+		"iladi" : "SİVAS"
+	},
+	{
+		"ilkodu" : "59",
+		"iladi" : "TEKİRDAĞ"
+	},
+	{
+		"ilkodu" : "60",
+		"iladi" : "TOKAT"
+	},
+	{
+		"ilkodu" : "61",
+		"iladi" : "TRABZON"
+	},
+	{
+		"ilkodu" : "62",
+		"iladi" : "TUNCELİ"
+	},
+	{
+		"ilkodu" : "63",
+		"iladi" : "ŞANLIURFA"
+	},
+	{
+		"ilkodu" : "64",
+		"iladi" : "UŞAK"
+	},
+	{
+		"ilkodu" : "65",
+		"iladi" : "VAN"
+	},
+	{
+		"ilkodu" : "66",
+		"iladi" : "YOZGAT"
+	},
+	{
+		"ilkodu" : "67",
+		"iladi" : "ZONGULDAK"
+	},
+	{
+		"ilkodu" : "68",
+		"iladi" : "AKSARAY"
+	},
+	{
+		"ilkodu" : "69",
+		"iladi" : "BAYBURT"
+	},
+	{
+		"ilkodu" : "70",
+		"iladi" : "KARAMAN"
+	},
+	{
+		"ilkodu" : "71",
+		"iladi" : "KIRIKKALE"
+	},
+	{
+		"ilkodu" : "72",
+		"iladi" : "BATMAN"
+	},
+	{
+		"ilkodu" : "73",
+		"iladi" : "ŞIRNAK"
+	},
+	{
+		"ilkodu" : "74",
+		"iladi" : "BARTIN"
+	},
+	{
+		"ilkodu" : "75",
+		"iladi" : "ARDAHAN"
+	},
+	{
+		"ilkodu" : "76",
+		"iladi" : "IĞDIR"
+	},
+	{
+		"ilkodu" : "77",
+		"iladi" : "YALOVA"
+	},
+	{
+		"ilkodu" : "78",
+		"iladi" : "KARABÜK"
+	},
+	{
+		"ilkodu" : "79",
+		"iladi" : "KİLİS"
+	},
+	{
+		"ilkodu" : "80",
+		"iladi" : "OSMANİYE"
+	},
+	{
+		"ilkodu" : "81",
+		"iladi" : "DÜZCE"
+	}
+]}

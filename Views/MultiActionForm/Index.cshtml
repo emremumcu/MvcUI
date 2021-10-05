@@ -1,0 +1,21 @@
+﻿
+
+<div class="m-4 p-4 bg-light">
+
+    <h1>Multiple Action Forms</h1>
+
+    <div class="btn-group">
+        <button type="button" class="btn btn-warning dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            Submit Buttons
+        </button>
+        <ul class="dropdown-menu">
+            <li>@Html.ActionLink("Submit Buttons - Different Values", "SubmitNameValue", "MultiActionForm", null, new { @class = "dropdown-item" })</li>
+            <li>@Html.ActionLink("Submit Buttons - Different Form Actions", "SubmitFormAction", "MultiActionForm", null, new { @class = "dropdown-item" })</li>
+            <li>@Html.ActionLink("Submit Buttons - Different Attributes (with JQuery)", "SubmitJQueryAttribAction", "MultiActionForm", null, new { @class = "dropdown-item" })</li>
+            <li>@Html.ActionLink("Submit Buttons - Different Names", "SubmitDifferentNames", "MultiActionForm", null, new { @class = "dropdown-item" })</li>
+            <li><hr class="dropdown-divider"></li>
+            <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "dropdown-item" })</li>
+        </ul>
+    </div>
+
+</div>
